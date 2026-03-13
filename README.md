@@ -1,1 +1,3 @@
-# toDoApp-notes
+# toDoApp geliştirme notlarım
+##  Async / Await Derinleşme 
+### 
